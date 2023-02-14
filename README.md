@@ -11,5 +11,3 @@ Skills: React/Redux, TypeScript, JavaScript, HTML, CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Genimax) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Genimax&show_icons=true) 
-
