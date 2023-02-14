@@ -7,7 +7,9 @@ Skills: React/Redux, TypeScript, JavaScript, HTML, CSS
 
 - 🔭 I’m currently working on a new application that will change the idea of ​​security and anonymity. 
 - 📫 How to reach me: https://t.me/GeniusOo 
-- ⚡ Fun fact: wanted to be a rock star since I was 5 🎸 
+- ⚡ Fun fact: wanted to be a rock star since I was 5 🎸
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Genimax&show_icons=true)      ![GitHub streak stats](https://streak-stats.demolab.com/?user=Genimax)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Genimax) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Genimax&show_icons=true) 
 
