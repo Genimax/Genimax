@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Max
 #### I am a React Frontend Developer
-![I am a React Frontend Developer](https://hdwpro.com/wp-content/uploads/2017/02/Super-Work-Wallpaper.jpg)
+![I am a React Frontend Developer](https://user-images.githubusercontent.com/95744177/218744048-ec4501f4-d1fe-49f9-a4e6-d8a6aa6a0e20.png)
 
 Passionate about learning and using modern technologies. Always think about the end user and how to improve my skill to do the job better and more efficiently.
 
