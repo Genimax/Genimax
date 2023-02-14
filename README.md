@@ -9,5 +9,5 @@ Skills: React/Redux, TypeScript, JavaScript, HTML, CSS
 - 📫 How to reach me: https://t.me/GeniusOo 
 - ⚡ Fun fact: wanted to be a rock star since I was 5 🎸 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Genimax&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Genimax)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Genimax&show_icons=true)      ![GitHub streak stats](https://streak-stats.demolab.com/?user=Genimax)  
 
