@@ -5,6 +5,6 @@ Passionate about learning and using modern technologies. Always think about the 
 
 Skills: React/Redux, TypeScript, JavaScript, HTML, CSS
 
-- 📫 How to reach me: https://t.me/GenimaxOo 
+- 📫 How to reach me: https://t.me/maxfrontlabs 
 - ⚡ Fun fact: wanted to be a rock star since I was 5 🎸
 
